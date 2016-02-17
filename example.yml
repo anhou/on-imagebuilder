@@ -1,4 +1,5 @@
 ---
+# 
 # Use the initrd wrapper playbook to build an initrd.
 # The config_file will define the provisioner role to use.
 - include: common/initrd_wrapper.yml
